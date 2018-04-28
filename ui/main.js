@@ -6,5 +6,5 @@ var img = document.getElementByid('madi');
 img.onclick = imghh(){
     
     
-    img.style.marginleft = '100px;'
+    img.style.marginleft = '100px';
 }
