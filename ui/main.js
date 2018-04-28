@@ -1,8 +1,10 @@
 console.log('Loaded!');
 
 
-function func(){
-var img = document.getElementById('madi');
-  img.style.marginleft = '100px';
+var img = document.getElementByid('madi');
 
-};
+img.onclick = imghh(){
+    
+    
+    img.style.marginleft = '100px;'
+}
